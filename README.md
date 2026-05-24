@@ -210,7 +210,7 @@ src/
 
 Clone Repository
 
-git clone https://github.com/your-username/leadflow-ai.git
+git clone https://github.com/GirishmaSajjarao/Leadflow-Ai.git
 cd leadflow-ai
 
 
