@@ -241,7 +241,7 @@ bun run dev
 
 Application runs on:
 
-http://localhost:5173
+https://leadflow-ai.sgirishma16.workers.dev/login
 
 
 
